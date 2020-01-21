@@ -1,0 +1,17 @@
+commit 90af66b54e76bbf1435488d3899ef27ab688a875
+Author: epiermar <erin.piermarini@gmail.com>
+Date:   Thu Jan 9 16:56:21 2020 -0500
+
+    added gitignore
+
+commit b01a5d72df2c938f28f194f83943d244e34ec3b7
+Author: epiermar <erin.piermarini@gmail.com>
+Date:   Thu Jan 9 16:49:27 2020 -0500
+
+    added & modified txt files
+
+commit 1862e90eb912db8eca2923ae22d367ee74d7c152
+Author: epiermar <erin.piermarini@gmail.com>
+Date:   Tue Jan 7 11:47:53 2020 -0500
+
+    added readme.txt
